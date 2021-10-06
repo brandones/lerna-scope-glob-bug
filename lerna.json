@@ -3,6 +3,5 @@
     "packages/apps/*",
     "packages/libs/*"
   ],
-  "version": "0.0.0",
-  "useWorkspaces": true
+  "version": "0.0.0"
 }
